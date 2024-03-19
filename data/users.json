@@ -1,0 +1,25 @@
+
+[
+    {
+        "id": 1,
+        "name": "Leanne Graham",
+        "age": "25",
+        "username": "Bret",
+        "email": "Lean@mail.com"
+    },
+    {
+        "id": 2,
+        "name": "Ervin Howell",
+         "age": "25",
+        "username": "Antonette",
+        "email": "Ervin@mail.com"
+    },
+    {
+        "id": 3,
+        "name": "Clementine Bauch",
+        "age": "25",
+        "username": "Samantha",
+        "email": "Clementine@mail.com"
+    }
+
+] 
